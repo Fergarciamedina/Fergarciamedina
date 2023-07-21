@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 As a Data Engineer & Scientist with a passion for nanoscience, I'm dedicated to crafting innovative solutions that combine my expertise in machine learning, data analysis, computer vision, and big data. Currently, I'm actively involved in developing predictive modeling tools using natural language processing and deep learning to glean valuable insights from unstructured data, such as customer reviews and feedback. Collaborating on projects focused on Mathematical Modeling, Machine Learning Algorithms, and Optimization excites me, and I'm always eager to work with like-minded individuals who share my enthusiasm and vision.
 
-🤝 I'm also seeking guidance to improve my proficiency in French and German languages, and any tips in this regard are most welcome! As part of my continuous growth, I'm deepening my knowledge in Cloud Computing and Digital Image Analysis in cell biology, expanding my technical skill set and expertise.
-
 💬 My background in Electrical Engineering, Computer Science, and Bioinformatics equips me to engage in insightful discussions on various subjects. Feel free to ask me anything related to my areas of work, and I'm keen on exploring fresh ideas and learning from others' perspectives.
 
 ⚡ On a lighter note, I'm not just dedicated to my professional pursuits; I'm also a high-performance athlete in Taekwondo and Swimming. My passion for giving back has led me to volunteer as a teacher for Engineers Without Borders, and I've been recognized as a contest winner in the HACKATHON ED TECH 2017 competition. Additionally, I've served as Vice President of the IEEE Robotics and Automation Society at the University of Engineering and Technology, reflecting my proactive nature and leadership skills.
